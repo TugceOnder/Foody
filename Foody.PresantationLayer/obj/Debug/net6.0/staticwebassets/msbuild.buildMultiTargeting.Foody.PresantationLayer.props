@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Foody.PresantationLayer.props" />
+</Project>
